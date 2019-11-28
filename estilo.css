@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.navbar-default {
+    background-color: #076614;
+    border-color: #191818;
+	margin-bottom: 0px;
+ 
+	}
+
+	.navbar {
+    border-radius: 0px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #000;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+
+.navbar-default .navbar-brand { color: #000;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #ddd0;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #ddd0;
+}
+.btn-default {
+    color: #000;
+    background-color: #48a2ef;
+    border-color: #000;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #4D4D4D;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #000;
+    border-radius: 4px; 
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    color: #000;
+    background-color: #1da54d;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #000;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #000000;
+}
+.dropdown-menu .divider {
+    height: 1px;
+    margin: 9px 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #00277d;
+}
+
+.carousel-indicators li {
+border: 2px solid #000;
+
+}
+
+.carousel-caption{
+	
+color: #000000;
+    text-align: center;
+    text-shadow: 0px 0px 6px rgb(255, 255, 255);
+}
+
+
+/*Titulo de texto impacto social*/
+
+.titulo-texto{
+	text-align: center;
+	text-decoration: underline;
+	font-style: italic;
+	color: #000158
+	
+	}
+	
+/*titulo encuestas*/
+
+.titulo-encuestas{
+	text-align: center;
+	text-decoration: underline;
+	font-style: italic;
+	color: #FF8F00;
+}
+
+
+
+/*titulo beneficios*/
+.titulo-beneficios{
+	text-align: center;
+	text-decoration: underline;
+	font-style: italic;
+	color: #443CA4;
+}
+
+
+
+
+
+
+	
+	
+	
+	
